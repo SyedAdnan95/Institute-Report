@@ -67,4 +67,4 @@ The largest group of learners is aged 20 to 29 (52.07%), followed by 30 to 39 (3
  📌 Screenshot Preview:
 This image displays a section of the interactive HR Analytics Dashboard developed in Power BI. It highlights key workforce metrics such as attrition rate, department-wise turnover, job satisfaction ratings, and demographic breakdowns by age, gender, and education field.
 
-Image : 
+Image : ![Institute Report Snapshot](https://raw.githubusercontent.com/SyedAdnan95/Institute-Report/main/Snapshot%20of%20the%20Institute%20Report.png)
