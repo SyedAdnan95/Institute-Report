@@ -57,7 +57,7 @@ Peaks in enrollments are seen in September (137) and April (126), indicating sea
 	•	Age Group Distribution (Donut Chart):
 The largest group of learners is aged 20 to 29 (52.07%), followed by 30 to 39 (33.68%). Learners under 20 and over 40 form a small percentage.
 
-💡Strategic Insights & Impact
+Strategic Insights & Impact
 	• Revenue Opportunities: Investment in marketing for top-performing courses like DaVinci Resolve and After Effects could further boost returns.
 	• Age-Based Marketing: Since over 85% of students are between 20–39, course positioning and communication should align with this demographic.
 	• Curriculum Planning: Monthly trends indicate seasonal spikes—institutions can plan faculty, marketing, and intake accordingly.
